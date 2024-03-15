@@ -1,0 +1,142 @@
+[
+{
+	"nombre": "Legolas",
+	"atributos": {
+		"Agilidad": 445,
+		"Velocidad": 434
+  }
+},
+{
+	"nombre": "Robin Hood",
+	"atributos": {
+		"Agilidad": 830,
+		"Velocidad": 841
+  }
+},
+{
+	"nombre": "Aristarco de Samos",
+	"atributos": {
+		"Agilidad": 652,
+		"Velocidad": 480
+  }
+},
+{
+	"nombre": "Voldemort",
+	"atributos": {
+		"Agilidad": 114,
+		"Velocidad": 788
+  }
+},
+{
+	"nombre": "Michelangelo",
+	"atributos": {
+		"Agilidad": 883,
+		"Velocidad": 245
+  }
+},
+{
+	"nombre": "Amelia Earhart",
+	"atributos": {
+		"Agilidad": 92,
+		"Velocidad": 95
+  }
+},
+{
+	"nombre": "Gallo Claudio",
+	"atributos": {
+		"Agilidad": 729,
+		"Velocidad": 843
+  }
+},
+{
+	"nombre": "Frankenstein's Monster",
+	"atributos": {
+		"Agilidad": 152,
+		"Velocidad": 766
+  }
+},
+{
+	"nombre": "Thor",
+	"atributos": {
+		"Agilidad": 581,
+		"Velocidad": 658
+  }
+},
+{
+	"nombre": "King Arthur",
+	"atributos": {
+		"Agilidad": 236,
+		"Velocidad": 997
+  }
+},
+{
+	"nombre": "Aragorn",
+	"atributos": {
+		"Agilidad": 216,
+		"Velocidad": 202
+  }
+},
+{
+	"nombre": "Frida Kahlo",
+	"atributos": {
+		"Agilidad": 165,
+		"Velocidad": 860
+  }
+},
+{
+	"nombre": "Joan of Arc",
+	"atributos": {
+		"Agilidad": 917,
+		"Velocidad": 179
+  }
+},
+{
+	"nombre": "Pinocho",
+	"atributos": {
+		"Agilidad": 201,
+		"Velocidad": 550
+  }
+},
+{
+	"nombre": "Black Widow",
+	"atributos": {
+		"Agilidad": 481,
+		"Velocidad": 420
+  }
+},
+{
+	"nombre": "Sleeping Beauty",
+	"atributos": {
+		"Agilidad": 432,
+		"Velocidad": 883
+  }
+},
+{
+	"nombre": "Yoda",
+	"atributos": {
+		"Agilidad": 297,
+		"Velocidad": 968
+  }
+},
+{
+	"nombre": "Ursula",
+	"atributos": {
+		"Agilidad": 687,
+		"Velocidad": 846
+  }
+},
+{
+	"nombre": "Gandalf",
+	"atributos": {
+		"Agilidad": 940,
+		"Velocidad": 726
+  }
+},
+{
+	"nombre": "Marie Curie",
+	"atributos": {
+		"Agilidad": 674,
+		"Velocidad": 376
+  }
+}
+]
