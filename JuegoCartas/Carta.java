@@ -24,9 +24,9 @@ public class Carta {
                 return atr.getValor();
         return -1;
     }
-    public List<Atributo> getAtributos() {
-        return List.copyOf(this.atributos);
-    }
+//    public List<Atributo> getAtributos() {
+//        return List.copyOf(this.atributos);
+//    }
     public void addAtributo(Atributo a){
         this.atributos.add(a);
     }
